@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Pol 🐶
 
 <!--
 **hhej/hhej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a Junior Data Scientist!
+- 📟  I'm currently learning everything as much as possible.
+- 📖  Fun Fact: I love reading books.
+
+
+![Pol's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhej&show_icons=true&theme=vue-dark)
