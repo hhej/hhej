@@ -19,5 +19,15 @@ Here are some ideas to get you started:
 - 📟  I'm currently learning everything as much as possible.
 - 📖  Fun Fact: I love reading books.
 
+### Connect with me:
+
+[<img align="left" alt="hhej | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br>
+
+---
+
 
 ![Pol's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhej&show_icons=true&theme=vue-dark)
+
+[linkedin]: https://www.linkedin.com/in/panjapol-am/
