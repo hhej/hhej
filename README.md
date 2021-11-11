@@ -1,4 +1,4 @@
-### Hi there, I'm Pol 🐶
+# Hi there, I'm Pol 🐶
 
 <!--
 **hhej/hhej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,19 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Junior Data Scientist!
+### I'm a Junior Data Scientist!
 - 📟  I'm currently learning everything as much as possible.
+- 💭  I'm Interested in Data Science, Statistics.
 - 📖  Fun Fact: I love reading books.
+
+### Tools:
+    👀 languages: Python | SQL 
+    🧠 libraries: pandas, numpy, matplotlib, seaborn, plotly, folium, scikit-learn, tensorflow, pyspark
 
 ### Connect with me:
 
-[<img align="left" alt="hhej | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="hhej | LinkedIn" width="40px" src="images/linkedin_logo.png" />][linkedin]
+[<img align="center" alt="hhej | Kaggle" width="40px" src="images/kaggle_logo.png" />][kaggle]
+[<img align="center" alt="hhej | Medium" width="40px" src="images/medium_logo.png" />][medium]
 
-<br>
 
 ---
 
 
-![Pol's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhej&show_icons=true&theme=vue-dark)
+![Pol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhej&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhej&hide_border=true)
 
 [linkedin]: https://www.linkedin.com/in/panjapol-am/
+[kaggle]: https://www.kaggle.com/poltitor
+[medium]: https://poltitor.medium.com/
