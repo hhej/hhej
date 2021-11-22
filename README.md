@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+My name is **Panjapol Ampornratana**.
 ### I'm a Junior Data Scientist!
 - 📟  I'm currently learning everything as much as possible.
 - 💭  I'm Interested in Data Science, Statistics.
