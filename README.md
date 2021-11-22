@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 ---
 
 
-![Pol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhej&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhej&hide_border=true)
+![Pol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhej&show_icons=true&theme=dracula)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhej&layout=compact&theme=dracula)
 
 [linkedin]: https://www.linkedin.com/in/panjapol-am/
 [kaggle]: https://www.kaggle.com/poltitor
